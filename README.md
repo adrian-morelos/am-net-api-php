@@ -1,4 +1,4 @@
-PHP library forAssociation Management System (AMS) AM.net's API
+PHP library for Association Management System (AMS) AM.net's API
 ================================================================
 
 [![Build Status](https://travis-ci.org/association-management-system/am-net-api-php.svg?branch=master)](https://travis-ci.org/association-management-system/am-net-api-php)
